@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srikarrao1
-- 👀 I’m interested in ... Blockchain technology
-- 🌱 I’m currently learning ... Solidity
+- 👀 I’m passionate in ... Blockchain technology
+- 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... Decentralized projects
 - 📫 How to reach me ... harikesavasrikar@gmail.com
 
